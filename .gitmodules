@@ -1,4 +1,0 @@
-[submodule "nginx-http"]
-	path = nginx-http
-	url = https://github.com/brasilio-thomazo/nginx-http.git
-	branch = main
